@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   apiUrl: 'https://appbasico.web.app/cadastro',
-  firebaseConfig = {
+  firebaseConfig : {
     apiKey: "AIzaSyBwPqVXENq1MpLIm1QXUBBAeoRtwDNNC_8",
     authDomain: "appbasico.firebaseapp.com",
     databaseURL: "https://appbasico.firebaseio.com",
@@ -13,7 +13,7 @@ export const environment = {
     storageBucket: "appbasico.appspot.com",
     messagingSenderId: "844488375730",
     appId: "1:844488375730:web:c34a54e4fdc2c465b438ab"
-  };
+  }
 };
 
 /*
